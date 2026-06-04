@@ -15,7 +15,10 @@ This Power BI dashboard analyzes hotel booking trends, revenue performance, cust
 - Occupancy performance
 
 ## Dashboard Preview
-(Add screenshots here)
+
+![Dashboard](IMG_20260604_155312.jpg)
+
+![Dashboard](IMG_20260604_155358.jpg)
 
 ## Files
 - HotelDashboard.pbix
